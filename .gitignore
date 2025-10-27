@@ -1,0 +1,10 @@
+# Node
+frontend/node_modules/
+backend/node_modules/
+
+# React build
+frontend/build/
+
+# Entornos
+backend/.env
+frontend/.env
